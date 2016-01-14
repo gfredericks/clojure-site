@@ -11,7 +11,7 @@ ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 === Minimal Install
 
-Clojure requires only http://java.sun.com/javase/downloads/index.jsp[Java] 1.6 or greater, plus the Clojure JAR file itself.
+Clojure requires only http://java.sun.com/javase/downloads/index.jsp[Java] 1bro.6 or greater, plus the Clojure JAR file itself.
 
 <<xref/../../community/downloads#,Download>> and unzip Clojure. In the directory in which you expanded clojure.zip, run:
 [source,clojure]
@@ -27,7 +27,7 @@ user=> (javax.swing.JOptionPane/showMessageDialog nil "Hello World")
 ----
 Try Clojure online:
 
-* http://tryclj.com/[TryClojure] provides a brower-based Clojure REPL
+* http://tryclj.com/[TryClojure] provides a browser-based Clojure REPL
 * http://himera.herokuapp.com/index.html[Himera] provides a browser-based ClojureScript REPL
 
 === Clojure Tools
